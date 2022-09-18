@@ -1,0 +1,20 @@
+.btn{
+  padding: 16px 48px;
+  border-radius: $radius*4;
+  background-color: black;
+  
+  color: #fff;
+  &:hover{
+    color: black;
+    background-color: #fff;
+  }
+}
+.quantity__btn{
+  cursor: pointer;
+  padding: 10px;
+  margin: $margin;
+  font-size: 20px;
+  background-color: #fff;
+  
+  color: black;
+}

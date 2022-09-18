@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "post 1",
+      "price": 2100,
+      "article": "T1",
+      "available": true,
+      "category": "anime",
+      "quantity" : "1"
+    },
+    {
+      "image": "2.jpg",
+      "name": "post 2",
+      "price": 3150,
+      "article": "T2",
+      "available": true,
+      "category": "anime2",
+      "quantity" : "1"
+    },
+    {
+      "image": "3.jpg",
+      "name": "post 3",
+      "price": 4200,
+      "article": "T3",
+      "available": false,
+      "category": "anime2",
+      "quantity" : "1"
+    },
+    {
+      "image": "4.jpg",
+      "name": "post 4",
+      "price": 5300,
+      "article": "T4",
+      "available": true,
+      "category": "anime",
+      "quantity" : "1"
+    },
+    {
+      "image": "5.jpg",
+      "name": "post 5",
+      "price": 6500,
+      "article": "T5",
+      "available": false,
+      "category": "anime2",
+      "quantity" : "1"
+    },
+    {
+      "image": "6.jpg",
+      "name": "post 6",
+      "price": 8700,
+      "article": "T6",
+      "available": true,
+      "category": "anime2",
+      "quantity" : "1"
+    }
+  ]
+}

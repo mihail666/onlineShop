@@ -1,0 +1,23 @@
+.shop-cart{
+  margin-bottom: 100px;
+  &__total{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: $padding*2;
+    display: flex;
+    justify-content: center;
+    background: black;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    &__name{
+      margin-right: $margin*2;
+    }
+  }
+  &__linc_to-cart{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
+}
